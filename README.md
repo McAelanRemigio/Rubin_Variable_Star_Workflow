@@ -25,13 +25,13 @@ The analysis follows a simple, linear pipeline:
 
 ## Repository Structure
 
-
+```
 rubin-variable-star-workflow/
 ├── run_pipeline.ipynb # End-to-end workflow notebook
 ├── data/ # Input data (small sample)
 ├── outputs/ # Generated tables and plots
 └── README.md
-
+```
 
 ---
 
